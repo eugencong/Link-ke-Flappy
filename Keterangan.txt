@@ -1,0 +1,3 @@
+Clumsy Bird / Flappy bird
+game HTML5 Open-Source
+burung yang menghindari pipa dan mencetak score sebesar-besarnya
